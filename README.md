@@ -13,15 +13,17 @@
 
 ## 👩‍💼 About Me
 
-I'm a **software engineer with a business mindset** — I don't just write code, I build solutions that create real-world value. Based in Berlin, I bridge the gap between technical execution and strategic thinking, helping teams ship products that scale and matter.
+I'm a **software engineer with a background you won't find on most CVs** — I started with a BA in Media, Communications & Culture and an Honours in Corporate Communication from Nelson Mandela University (Gqeberha, South Africa), then pivoted into software engineering. That combination is my edge: I don't just build things, I understand *who* they're built for.
+
+I bring a **rare mix of technical skill and human insight** — shaped by years of living and working across four countries: 🇿🇦 South Africa → 🇰🇷 South Korea → 🇨🇳 China → 🇩🇪 Germany → 🇳🇴 Norway. That kind of journey builds more than a passport — it builds cultural fluency, adaptability, and the ability to collaborate across any room.
 
 > *"The best code is code that solves a real problem for real people."*
 
 - 🚀 Currently building: **MoodWatch** — a Python-powered mood analytics app
 - 🌱 Exploring: **AI/ML integrations** and scalable backend architecture
 - 🤝 Open to: **collaborations, consulting, and high-impact projects**
-- 💡 Background in: **full-stack development, data management, and product thinking**
-- 📍 Based in **Berlin** | Open to remote opportunities worldwide
+- 💡 Background in: **full-stack development, communications, and product thinking**
+- 📍 Based in **Norway** | Open to remote opportunities worldwide
 
 ---
 
@@ -72,10 +74,10 @@ I'm a **software engineer with a business mindset** — I don't just write code,
 ## 💼 What I Bring to the Table
 
 ```
-✅ Engineering rigour   + product intuition
-✅ Clean, maintainable  + scalable code
-✅ Data-driven thinking + user-centred design
-✅ Ownership mindset    + collaborative spirit
+✅ Engineering rigour      + product intuition
+✅ Technical execution     + communication skills
+✅ Data-driven thinking    + user-centred design
+✅ Global cultural fluency + collaborative spirit
 ```
 
 ---
