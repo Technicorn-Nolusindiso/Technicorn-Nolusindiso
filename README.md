@@ -19,11 +19,41 @@ I bring a **rare mix of technical skill and human insight** — shaped by years 
 
 > *"The best code is code that solves a real problem for real people."*
 
-- 🚀 Currently building: **MoodWatch** — a Python-powered mood analytics app
+- 🚀 Currently building: **MoodWatch** — see below
 - 🌱 Exploring: **AI/ML integrations** and scalable backend architecture
 - 🤝 Open to: **collaborations, consulting, and high-impact projects**
 - 💡 Background in: **full-stack development, communications, and product thinking**
 - 📍 Based in **Norway** | Open to remote opportunities worldwide
+
+---
+
+## 🎬 Currently Building: MoodWatch
+
+> *Friday night. You don't know what to watch. You tell MoodWatch how you're feeling — and it recommends films based on what you and the people you follow actually enjoyed in that mood.*
+
+Most trackers log **what** you watched. MoodWatch logs **how you felt** when you watched it — sad, romantic, nostalgic, hyped, date night, rainy day. Over time it builds a picture of your taste by mood, not just genre.
+
+**Features:**
+- 🔍 Search any movie or TV show (TMDB API)
+- 📝 Log it with a mood, star rating, and review
+- 📂 Browse your history filtered by mood
+- 👥 Follow friends and see their mood logs
+- 🧠 Get mood-based recommendations from your social circle
+- ❤️ Save favourites & curated lists like *"Movies for when you can't stop crying"*
+
+**Built with:**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Covers two university modules:** NoSQL Databases (document model, aggregation pipeline, full-text search) · Cyber Security (JWT auth, bcrypt, input validation, TLS, threat modelling)
+
+**Progress:** ✅ Auth fully working — register, login, protected routes, frontend pages all done. ⏳ Next up: TMDB movie search integration.
+
+[👉 View repo](https://github.com/Technicorn-Nolusindiso/MoodWatch)
 
 ---
 
@@ -47,11 +77,10 @@ I bring a **rare mix of technical skill and human insight** — shaped by years 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Other Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧠 [**MoodWatch**](https://github.com/Technicorn-Nolusindiso/MoodWatch) | Mood analytics & tracking app | Python |
 | ⚛️ [**ReactBasics**](https://github.com/Technicorn-Nolusindiso/ReactBasics) | React fundamentals & component patterns | JavaScript |
 | 🗄️ [**Pagila Queries**](https://github.com/Technicorn-Nolusindiso/pagila-queries) | Advanced SQL exercises on a real dataset | PL/pgSQL |
 
