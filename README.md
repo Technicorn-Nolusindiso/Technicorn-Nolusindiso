@@ -65,6 +65,8 @@ I'm a **software engineer with a business mindset** — I don't just write code,
 
 </div>
 
+> 💡 **Low contribution count?** My day-to-day engineering work at Alphalist lives on **Bitbucket** — so this graph doesn't reflect my full activity. What you see here is personal projects and open source.
+
 ---
 
 ## 💼 What I Bring to the Table
